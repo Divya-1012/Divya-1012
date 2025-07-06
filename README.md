@@ -8,7 +8,7 @@
 - 🧠 Love problem solving and building AI/ML systems that solve real problems
 - 💬 Always happy to collaborate
 - ✍️ Currently learning **Operating System** and **Computer Networks**
-- 📫 How to reach me: (mailto:divyanshikaushik10000@gmail.com)
+- 📫 How to reach me: (divyanshikaushik10000@gmail.com)
 
 ---
 
