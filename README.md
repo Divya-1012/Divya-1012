@@ -37,7 +37,7 @@
 | **Quora Question Relevance Classifier** | 🧠 NLP model using Word2Vec and Logistic Regression (94.4%) | Python, Gensim |
 | **Smart Exam Seating System** | 🪑 Generates anti-cheating seat plans using graph coloring | C++, STL |
 | **Quiz Generator from Gist** | 🤖 Uses transformers to extract and quiz on concepts from text | Python, HuggingFace |
-| **Vacation Rental Booking App** | 🏡 Full-stack rental platform | React, Node.js, MongoDB |
+
 
 ---
 
